@@ -173,7 +173,18 @@ scores = evaluate_algorithm(dataset, k_nearest_neighbors, n_folds, num_neighbors
 print('Scores: %s' % scores)
 print('Mean Accuracy: %.3f%%' % (sum(scores)/float(len(scores))))
 ```
+```
 
+
+
+
+
+
+
+
+
+
+```
 ## Output:
 ![image](https://user-images.githubusercontent.com/75236145/169486529-4475f4bb-19e0-4c06-8400-4d78232a6380.png)
 
